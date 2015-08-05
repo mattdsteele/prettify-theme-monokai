@@ -1,0 +1,19 @@
+{
+  "name": "prettify-theme-monokai",
+  "version": "1.0.0",
+  "description": "Prettify Theme for Monokai",
+  "main": "monokai.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdsteele/prettify-theme-monokai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattdsteele/prettify-theme-monokai/issues"
+  },
+  "homepage": "https://github.com/mattdsteele/prettify-theme-monokai#readme"
+}
